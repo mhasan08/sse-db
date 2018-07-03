@@ -1,1 +1,1 @@
-echo # sse-db
+# SSE-DB
