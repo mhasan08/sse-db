@@ -1,1 +1,1 @@
-echo # sse-db: C# Driver
+# C# Driver
